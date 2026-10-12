@@ -1,0 +1,13 @@
+{
+  "name": "comp4537-lab3",
+  "version": "1.0.0",
+  "description": "COMP4537 Lab 3 - debugging demo, GET date server, and file read/write (pure Node.js http, no frameworks)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
